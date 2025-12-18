@@ -1,6 +1,6 @@
 # React + Vite
 # Todo List 
-![Live Demo](https://todo-app-theta-three-98.vercel.app/?referrer=grok.com)  
+
 **Live Demo:** [https://todo-app.vercel.app](https://todo-app-theta-three-98.vercel.app/?referrer=grok.com)
 
 A beautiful modern Todo List with neon glassmorphism, animations, and dark theme.
